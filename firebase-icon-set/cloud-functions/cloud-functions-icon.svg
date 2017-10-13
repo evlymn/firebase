@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud-functions-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud-functions-icon">
+            <g id="functions" transform="translate(11.000000, 11.000000)">
+                <circle id="Oval" fill="#757575" fill-rule="nonzero" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                <g id="functions-icon" transform="translate(33.000000, 35.000000)" fill-rule="evenodd" fill="#FFFFFF">
+                    <polygon id="[" points="0.300174836 11.0215652 11.6969265 0.181473581 17.604665 6.38436729 8.77029936 15.0950681 8.77029936 43.0548246 17.604665 51.3080253 11.6969265 57.3282621 0.300174836 46.9942359"></polygon>
+                    <polygon id="[" transform="translate(54.314543, 28.891377) scale(-1, 1) translate(-54.314543, -28.891377) " points="45.6622984 11.158074 57.05905 0.317982456 62.9667885 6.52087617 54.1324229 15.231577 54.1324229 43.1913334 62.9667885 51.4445342 57.05905 57.4647709 45.6622984 47.1307448"></polygon>
+                    <ellipse id="Oval-2" cx="18.3220766" cy="29.0317982" rx="4.66784274" ry="4.67434211"></ellipse>
+                    <ellipse id="Oval-2" cx="31.6587702" cy="29.0317982" rx="4.66784274" ry="4.67434211"></ellipse>
+                    <ellipse id="Oval-2" cx="44.9954637" cy="29.0317982" rx="4.66784274" ry="4.67434211"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

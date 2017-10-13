@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Cloud-Storage-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cloud-Storage-icon">
+            <g id="storage" transform="translate(11.000000, 11.000000)">
+                <g id="oval-background" fill-rule="nonzero" fill="#757575">
+                    <circle id="Oval" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                </g>
+                <g id="storage-icon" transform="translate(32.000000, 38.000000)" fill-rule="evenodd" fill="#FFFFFF">
+                    <path d="M25.8181818,0.909090909 L6.72727273,0.909090909 C3.22727273,0.909090909 0.395454545,3.77272727 0.395454545,7.27272727 L0.363636364,45.4545455 C0.363636364,48.9545455 3.22727273,51.8181818 6.72727273,51.8181818 L57.6363636,51.8181818 C61.1363636,51.8181818 64,48.9545455 64,45.4545455 L64,13.6363636 C64,10.1363636 61.1363636,7.27272727 57.6363636,7.27272727 L32.1818182,7.27272727 L25.8181818,0.909090909 Z M30.4318182,38.1681818 L40.6645455,26.3636364 L54.4545455,42.2727273 L13.0909091,42.2727273 L23.4318182,29.5454545 L30.4318182,38.1681818 Z" id="cloud-storage"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

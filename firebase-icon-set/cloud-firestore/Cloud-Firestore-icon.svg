@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Cloud-Firestore-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cloud-Firestore-icon">
+            <g id="firestore" transform="translate(11.000000, 11.000000)">
+                <g id="oval-background" fill-rule="nonzero" fill="#757575">
+                    <circle id="Oval" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                </g>
+                <g id="firestore-icon" transform="translate(35.000000, 32.000000)" fill-rule="evenodd" fill="#FFFFFF">
+                    <path d="M29.1818182,35.5454545 L0.545454545,48.2727273 L0.545454545,35.5454545 L29.1818182,22.8181818 L57.8181818,35.5454545 L57.8181818,46.6818182 L57.8181818,44.2954545 L57.8181818,48.2727273 L29.1818182,35.5454545 Z M29.1818182,0.545454545 L57.8181818,13.2727273 L57.8181818,26 L29.1818182,13.2727273 L0.545454545,26 L0.545454545,13.2727273 L29.1818182,0.545454545 Z M39.9204545,46.6818182 L54.2386364,53.0454545 L29.1818182,64.1818182 L29.1818182,51.4545455 L39.9204545,46.6818182 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

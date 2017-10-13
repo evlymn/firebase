@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="252px" height="304px" viewBox="0 0 252 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Firebase-logo-flat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Firebase-logo-flat" fill-rule="nonzero">
+            <g id="firebase-logo-flat" transform="translate(24.000000, 12.000000)">
+                <path d="M0,225.909091 L34.4590909,5.39318182 C34.8803183,2.68892432 36.983441,0.5568762 39.6816926,0.098750582 C42.3799443,-0.359375036 45.0689082,0.959043418 46.3590909,3.37272727 L81.9954545,69.8409091 L96.2022727,42.7954545 C97.3025052,40.7041218 99.4710031,39.3946701 101.834091,39.3946701 C104.197179,39.3946701 106.365677,40.7041218 107.465909,42.7954545 L203.636364,225.909091 L0,225.909091 Z" id="Shape" fill="#FFA000"></path>
+                <polygon id="Shape" fill="#F57C00" points="119.047727 140.015909 81.9795455 69.825 0 225.909091"></polygon>
+                <path d="M203.636364,225.909091 L177.243182,62.5863636 C176.844475,60.2407062 175.170537,58.3134038 172.903812,57.5901945 C170.637086,56.8669853 168.156257,57.4686897 166.472727,59.15 L0,225.909091 L92.1136364,277.565909 C97.8979135,280.795506 104.942996,280.795506 110.727273,277.565909 L203.636364,225.909091 Z" id="Shape" fill="#FFCA28"></path>
+            </g>
+        </g>
+    </g>
+</svg>

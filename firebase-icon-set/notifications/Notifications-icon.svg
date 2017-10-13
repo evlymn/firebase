@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Notifications-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notifications-icon">
+            <g id="notifications" transform="translate(11.000000, 11.000000)">
+                <circle id="Oval" fill="#757575" fill-rule="nonzero" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                <g id="notifications-icon" transform="translate(33.000000, 33.000000)">
+                    <path d="M52.5,5.25 L10.5,5.25 C7.599375,5.25 5.27625,7.599375 5.27625,10.5 L5.25,57.75 L15.75,47.25 L52.5,47.25 C55.400625,47.25 57.75,44.900625 57.75,42 L57.75,10.5 C57.75,7.599375 55.400625,5.25 52.5,5.25 Z M37.25,36.75 L15.75,36.75 L15.75,31.5 L37.25,31.5 L37.25,36.75 Z M47.25,28.875 L15.75,28.875 L15.75,23.625 L47.25,23.625 L47.25,28.875 Z M47.25,21 L15.75,21 L15.75,15.75 L47.25,15.75 L47.25,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Shape" points="0 0 63 0 63 63 0 63"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>firebase-logo-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="firebase-logo-icon" fill-rule="nonzero">
+            <g id="firebase-logo-color" transform="translate(11.000000, 11.000000)">
+                <circle id="Oval" fill="#757575" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                <g id="firebase-logo-color-icon" transform="translate(23.000000, 24.000000)">
+                    <path d="M14.2608696,62.892663 L23.310394,4.98155571 C23.4210153,4.27137318 23.9733299,3.71146225 24.6819352,3.59115092 C25.3905405,3.47083959 26.0967067,3.81707798 26.4355299,4.45095109 L35.7942255,21.9065897 L39.5251698,14.8040082 C39.814109,14.2547898 40.3835922,13.9109062 41.004178,13.9109062 C41.6247637,13.9109062 42.194247,14.2547898 42.4831861,14.8040082 L67.7391304,62.892663 L14.2608696,62.892663 Z" id="Shape" fill="#FFA000"></path>
+                    <polygon id="Shape" fill="#F57C00" points="45.5247622 40.3356997 35.7900476 21.9024117 14.2608696 62.892663"></polygon>
+                    <path d="M67.7391304,62.892663 L60.8078465,20.0014266 C60.7031396,19.3854184 60.2635358,18.879277 59.6682564,18.6893504 C59.072977,18.4994237 58.4214703,18.6574412 57.9793478,19.098981 L14.2608696,62.892663 L38.4514266,76.4585938 C39.970473,77.306739 41.8206275,77.306739 43.3396739,76.4585938 L67.7391304,62.892663 Z" id="Shape" fill="#FFCA28"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

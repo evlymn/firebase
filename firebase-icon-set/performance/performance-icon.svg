@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>performance-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="performance-icon">
+            <g id="performance" transform="translate(11.000000, 11.000000)">
+                <circle id="Oval" fill="#757575" fill-rule="nonzero" cx="64.1818182" cy="64.3636364" r="63.6363636"></circle>
+                <g id="performance-icon" transform="translate(30.000000, 30.000000)" fill-rule="evenodd" fill="#FFFFFF">
+                    <circle id="Oval-3" cx="16.5" cy="27.5" r="3.5"></circle>
+                    <circle id="Oval-3" cx="26.5" cy="16.5" r="3.5"></circle>
+                    <circle id="Oval-3" cx="52.4666667" cy="27.5" r="3.5"></circle>
+                    <rect id="Rectangle" transform="translate(38.937780, 24.477329) rotate(-62.000000) translate(-38.937780, -24.477329) " x="28.1932271" y="20.9773287" width="21.4891059" height="7" rx="3.5"></rect>
+                    <circle id="Oval-3" cx="33.6055273" cy="35" r="6"></circle>
+                    <path d="M34.5,69 C15.4461761,69 0,53.5538239 0,34.5 C0,15.4461761 15.4461761,0 34.5,0 C53.5538239,0 69,15.4461761 69,34.5 C69,53.5538239 53.5538239,69 34.5,69 Z M55.8184145,53.3080801 C59.3281585,49.9568522 63,41.1743231 63,34.5 C63,18.7598846 50.2401154,6 34.5,6 C18.7598846,6 6,18.5833763 6,34.5 C6,41.9213944 9.67409453,49.9115025 12.6502205,52.9210904 C24.7093461,42.3275747 43.0548458,42.4320656 55.8184145,53.3080801 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
